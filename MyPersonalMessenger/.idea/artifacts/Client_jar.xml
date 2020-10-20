@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact name="Client:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Client_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Client.jar">
+        <element id="module-output" name="Client" />
+      </element>
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-core:5.2.9.RELEASE" />
+      <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-api:2.13.3" />
+      <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.21" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.2.9.RELEASE" />
+      <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-slf4j-impl:2.13.3" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.2.9.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.2.9.RELEASE" />
+      <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-core:2.13.3" />
+      <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.11.4" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-context:5.2.9.RELEASE" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.2.9.RELEASE" />
+    </root>
+  </artifact>
+</component>
